@@ -1,0 +1,14 @@
+/home/levyz/VS_Projects/Console_Input_and_Output/bin/Debug/net8.0/Console_Input_and_Output
+/home/levyz/VS_Projects/Console_Input_and_Output/bin/Debug/net8.0/Console_Input_and_Output.deps.json
+/home/levyz/VS_Projects/Console_Input_and_Output/bin/Debug/net8.0/Console_Input_and_Output.runtimeconfig.json
+/home/levyz/VS_Projects/Console_Input_and_Output/bin/Debug/net8.0/Console_Input_and_Output.dll
+/home/levyz/VS_Projects/Console_Input_and_Output/bin/Debug/net8.0/Console_Input_and_Output.pdb
+/home/levyz/VS_Projects/Console_Input_and_Output/obj/Debug/net8.0/Console_Input_and_Output.GeneratedMSBuildEditorConfig.editorconfig
+/home/levyz/VS_Projects/Console_Input_and_Output/obj/Debug/net8.0/Console_Input_and_Output.AssemblyInfoInputs.cache
+/home/levyz/VS_Projects/Console_Input_and_Output/obj/Debug/net8.0/Console_Input_and_Output.AssemblyInfo.cs
+/home/levyz/VS_Projects/Console_Input_and_Output/obj/Debug/net8.0/Console_Input_and_Output.csproj.CoreCompileInputs.cache
+/home/levyz/VS_Projects/Console_Input_and_Output/obj/Debug/net8.0/Console_Input_and_Output.dll
+/home/levyz/VS_Projects/Console_Input_and_Output/obj/Debug/net8.0/refint/Console_Input_and_Output.dll
+/home/levyz/VS_Projects/Console_Input_and_Output/obj/Debug/net8.0/Console_Input_and_Output.pdb
+/home/levyz/VS_Projects/Console_Input_and_Output/obj/Debug/net8.0/Console_Input_and_Output.genruntimeconfig.cache
+/home/levyz/VS_Projects/Console_Input_and_Output/obj/Debug/net8.0/ref/Console_Input_and_Output.dll

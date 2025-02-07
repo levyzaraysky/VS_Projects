@@ -1,0 +1,14 @@
+/home/levyz/VS_Projects/Types_of_data/bin/Debug/net8.0/Types_of_data
+/home/levyz/VS_Projects/Types_of_data/bin/Debug/net8.0/Types_of_data.deps.json
+/home/levyz/VS_Projects/Types_of_data/bin/Debug/net8.0/Types_of_data.runtimeconfig.json
+/home/levyz/VS_Projects/Types_of_data/bin/Debug/net8.0/Types_of_data.dll
+/home/levyz/VS_Projects/Types_of_data/bin/Debug/net8.0/Types_of_data.pdb
+/home/levyz/VS_Projects/Types_of_data/obj/Debug/net8.0/Types_of_data.GeneratedMSBuildEditorConfig.editorconfig
+/home/levyz/VS_Projects/Types_of_data/obj/Debug/net8.0/Types_of_data.AssemblyInfoInputs.cache
+/home/levyz/VS_Projects/Types_of_data/obj/Debug/net8.0/Types_of_data.AssemblyInfo.cs
+/home/levyz/VS_Projects/Types_of_data/obj/Debug/net8.0/Types_of_data.csproj.CoreCompileInputs.cache
+/home/levyz/VS_Projects/Types_of_data/obj/Debug/net8.0/Types_of_data.dll
+/home/levyz/VS_Projects/Types_of_data/obj/Debug/net8.0/refint/Types_of_data.dll
+/home/levyz/VS_Projects/Types_of_data/obj/Debug/net8.0/Types_of_data.pdb
+/home/levyz/VS_Projects/Types_of_data/obj/Debug/net8.0/Types_of_data.genruntimeconfig.cache
+/home/levyz/VS_Projects/Types_of_data/obj/Debug/net8.0/ref/Types_of_data.dll

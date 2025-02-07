@@ -1,0 +1,14 @@
+/home/levyz/VS_Projects/Practical_Work_Math/bin/Debug/net8.0/Practical_Work_Math
+/home/levyz/VS_Projects/Practical_Work_Math/bin/Debug/net8.0/Practical_Work_Math.deps.json
+/home/levyz/VS_Projects/Practical_Work_Math/bin/Debug/net8.0/Practical_Work_Math.runtimeconfig.json
+/home/levyz/VS_Projects/Practical_Work_Math/bin/Debug/net8.0/Practical_Work_Math.dll
+/home/levyz/VS_Projects/Practical_Work_Math/bin/Debug/net8.0/Practical_Work_Math.pdb
+/home/levyz/VS_Projects/Practical_Work_Math/obj/Debug/net8.0/Practical_Work_Math.GeneratedMSBuildEditorConfig.editorconfig
+/home/levyz/VS_Projects/Practical_Work_Math/obj/Debug/net8.0/Practical_Work_Math.AssemblyInfoInputs.cache
+/home/levyz/VS_Projects/Practical_Work_Math/obj/Debug/net8.0/Practical_Work_Math.AssemblyInfo.cs
+/home/levyz/VS_Projects/Practical_Work_Math/obj/Debug/net8.0/Practical_Work_Math.csproj.CoreCompileInputs.cache
+/home/levyz/VS_Projects/Practical_Work_Math/obj/Debug/net8.0/Practical_Work_Math.dll
+/home/levyz/VS_Projects/Practical_Work_Math/obj/Debug/net8.0/refint/Practical_Work_Math.dll
+/home/levyz/VS_Projects/Practical_Work_Math/obj/Debug/net8.0/Practical_Work_Math.pdb
+/home/levyz/VS_Projects/Practical_Work_Math/obj/Debug/net8.0/Practical_Work_Math.genruntimeconfig.cache
+/home/levyz/VS_Projects/Practical_Work_Math/obj/Debug/net8.0/ref/Practical_Work_Math.dll
