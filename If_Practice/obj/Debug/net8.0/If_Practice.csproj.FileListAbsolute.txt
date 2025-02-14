@@ -12,3 +12,4 @@
 /home/levyz/VS_Projects/If_Practice/obj/Debug/net8.0/If_Practice.pdb
 /home/levyz/VS_Projects/If_Practice/obj/Debug/net8.0/If_Practice.genruntimeconfig.cache
 /home/levyz/VS_Projects/If_Practice/obj/Debug/net8.0/ref/If_Practice.dll
+/home/levyz/VS_Projects/If_Practice/obj/Debug/net8.0/If_Practice.sourcelink.json
