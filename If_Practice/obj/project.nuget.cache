@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xk2ePiDS1vqOonDl+jc25EVXKIux6VGC/nXLavnsnkbn5597F9wb0awjoFspB/468gSzbLVa1OADxpZqbLDtqg==",
+  "dgSpecHash": "sBuNM8WQn8U9625k/Bw0oGgl1aWeJ/+Nka5ZTCKg/VkuSW965cOguMTy/UpxkbAREkKdJsgwwW+APN8YRDMrgg==",
   "success": true,
   "projectFilePath": "/home/levyz/VS_Projects/If_Practice/If_Practice.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/levyz/.nuget/packages/dotnetgeminisdk/1.0.14/dotnetgeminisdk.1.0.14.nupkg.sha512",
+    "/home/levyz/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/levyz/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
