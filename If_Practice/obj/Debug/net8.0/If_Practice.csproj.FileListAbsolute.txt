@@ -17,4 +17,4 @@
 /home/levyz/VS_Projects/If_Practice/bin/Debug/net8.0/DotnetGeminiSDK.dll
 /home/levyz/VS_Projects/If_Practice/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /home/levyz/VS_Projects/If_Practice/bin/Debug/net8.0/Newtonsoft.Json.dll
-/home/levyz/VS_Projects/If_Practice/obj/Debug/net8.0/If_Practice.csproj.CopyComplete
+/home/levyz/VS_Projects/If_Practice/obj/Debug/net8.0/If_Pract.946E95E2.Up2Date
