@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KAJ1SIHsOEs=",
+  "dgSpecHash": "n77YYTqmXBQ=",
   "success": true,
   "projectFilePath": "/home/levyz/VS_Projects/Practical_Work_Math/Practical_Work_Math.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/levyz/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.18/microsoft.netcore.app.host.linux-x64.8.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

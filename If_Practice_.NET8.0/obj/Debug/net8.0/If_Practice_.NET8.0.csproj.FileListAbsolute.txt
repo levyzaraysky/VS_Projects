@@ -1,0 +1,15 @@
+/home/levyz/VS_Projects/If_Practice_.NET8.0/bin/Debug/net8.0/If_Practice_.NET8.0
+/home/levyz/VS_Projects/If_Practice_.NET8.0/bin/Debug/net8.0/If_Practice_.NET8.0.deps.json
+/home/levyz/VS_Projects/If_Practice_.NET8.0/bin/Debug/net8.0/If_Practice_.NET8.0.runtimeconfig.json
+/home/levyz/VS_Projects/If_Practice_.NET8.0/bin/Debug/net8.0/If_Practice_.NET8.0.dll
+/home/levyz/VS_Projects/If_Practice_.NET8.0/bin/Debug/net8.0/If_Practice_.NET8.0.pdb
+/home/levyz/VS_Projects/If_Practice_.NET8.0/obj/Debug/net8.0/If_Practice_.NET8.0.GeneratedMSBuildEditorConfig.editorconfig
+/home/levyz/VS_Projects/If_Practice_.NET8.0/obj/Debug/net8.0/If_Practice_.NET8.0.AssemblyInfoInputs.cache
+/home/levyz/VS_Projects/If_Practice_.NET8.0/obj/Debug/net8.0/If_Practice_.NET8.0.AssemblyInfo.cs
+/home/levyz/VS_Projects/If_Practice_.NET8.0/obj/Debug/net8.0/If_Practice_.NET8.0.csproj.CoreCompileInputs.cache
+/home/levyz/VS_Projects/If_Practice_.NET8.0/obj/Debug/net8.0/If_Practice_.NET8.0.sourcelink.json
+/home/levyz/VS_Projects/If_Practice_.NET8.0/obj/Debug/net8.0/If_Practice_.NET8.0.dll
+/home/levyz/VS_Projects/If_Practice_.NET8.0/obj/Debug/net8.0/refint/If_Practice_.NET8.0.dll
+/home/levyz/VS_Projects/If_Practice_.NET8.0/obj/Debug/net8.0/If_Practice_.NET8.0.pdb
+/home/levyz/VS_Projects/If_Practice_.NET8.0/obj/Debug/net8.0/If_Practice_.NET8.0.genruntimeconfig.cache
+/home/levyz/VS_Projects/If_Practice_.NET8.0/obj/Debug/net8.0/ref/If_Practice_.NET8.0.dll

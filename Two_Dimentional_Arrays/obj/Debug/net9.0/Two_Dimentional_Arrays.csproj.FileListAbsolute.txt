@@ -1,0 +1,15 @@
+/home/levyz/VS_Projects/Two_Dimentional_Arrays/bin/Debug/net9.0/Two_Dimentional_Arrays
+/home/levyz/VS_Projects/Two_Dimentional_Arrays/bin/Debug/net9.0/Two_Dimentional_Arrays.deps.json
+/home/levyz/VS_Projects/Two_Dimentional_Arrays/bin/Debug/net9.0/Two_Dimentional_Arrays.runtimeconfig.json
+/home/levyz/VS_Projects/Two_Dimentional_Arrays/bin/Debug/net9.0/Two_Dimentional_Arrays.dll
+/home/levyz/VS_Projects/Two_Dimentional_Arrays/bin/Debug/net9.0/Two_Dimentional_Arrays.pdb
+/home/levyz/VS_Projects/Two_Dimentional_Arrays/obj/Debug/net9.0/Two_Dimentional_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/levyz/VS_Projects/Two_Dimentional_Arrays/obj/Debug/net9.0/Two_Dimentional_Arrays.AssemblyInfoInputs.cache
+/home/levyz/VS_Projects/Two_Dimentional_Arrays/obj/Debug/net9.0/Two_Dimentional_Arrays.AssemblyInfo.cs
+/home/levyz/VS_Projects/Two_Dimentional_Arrays/obj/Debug/net9.0/Two_Dimentional_Arrays.csproj.CoreCompileInputs.cache
+/home/levyz/VS_Projects/Two_Dimentional_Arrays/obj/Debug/net9.0/Two_Dimentional_Arrays.sourcelink.json
+/home/levyz/VS_Projects/Two_Dimentional_Arrays/obj/Debug/net9.0/Two_Dimentional_Arrays.dll
+/home/levyz/VS_Projects/Two_Dimentional_Arrays/obj/Debug/net9.0/refint/Two_Dimentional_Arrays.dll
+/home/levyz/VS_Projects/Two_Dimentional_Arrays/obj/Debug/net9.0/Two_Dimentional_Arrays.pdb
+/home/levyz/VS_Projects/Two_Dimentional_Arrays/obj/Debug/net9.0/Two_Dimentional_Arrays.genruntimeconfig.cache
+/home/levyz/VS_Projects/Two_Dimentional_Arrays/obj/Debug/net9.0/ref/Two_Dimentional_Arrays.dll

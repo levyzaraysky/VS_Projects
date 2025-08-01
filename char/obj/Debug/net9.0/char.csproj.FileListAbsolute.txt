@@ -1,0 +1,15 @@
+/home/levyz/VS_Projects/char/bin/Debug/net9.0/char
+/home/levyz/VS_Projects/char/bin/Debug/net9.0/char.deps.json
+/home/levyz/VS_Projects/char/bin/Debug/net9.0/char.runtimeconfig.json
+/home/levyz/VS_Projects/char/bin/Debug/net9.0/char.dll
+/home/levyz/VS_Projects/char/bin/Debug/net9.0/char.pdb
+/home/levyz/VS_Projects/char/obj/Debug/net9.0/char.GeneratedMSBuildEditorConfig.editorconfig
+/home/levyz/VS_Projects/char/obj/Debug/net9.0/char.AssemblyInfoInputs.cache
+/home/levyz/VS_Projects/char/obj/Debug/net9.0/char.AssemblyInfo.cs
+/home/levyz/VS_Projects/char/obj/Debug/net9.0/char.csproj.CoreCompileInputs.cache
+/home/levyz/VS_Projects/char/obj/Debug/net9.0/char.sourcelink.json
+/home/levyz/VS_Projects/char/obj/Debug/net9.0/char.dll
+/home/levyz/VS_Projects/char/obj/Debug/net9.0/refint/char.dll
+/home/levyz/VS_Projects/char/obj/Debug/net9.0/char.pdb
+/home/levyz/VS_Projects/char/obj/Debug/net9.0/char.genruntimeconfig.cache
+/home/levyz/VS_Projects/char/obj/Debug/net9.0/ref/char.dll

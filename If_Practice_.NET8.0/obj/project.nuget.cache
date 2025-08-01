@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9wmHiEGHB/w=",
+  "success": true,
+  "projectFilePath": "/home/levyz/VS_Projects/If_Practice_.NET8.0/If_Practice_.NET8.0.csproj",
+  "expectedPackageFiles": [
+    "/home/levyz/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.18/microsoft.netcore.app.host.linux-x64.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

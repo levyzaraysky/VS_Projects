@@ -1,0 +1,15 @@
+/home/levyz/VS_Projects/Arrays Practice/bin/Debug/net9.0/Arrays Practice
+/home/levyz/VS_Projects/Arrays Practice/bin/Debug/net9.0/Arrays Practice.deps.json
+/home/levyz/VS_Projects/Arrays Practice/bin/Debug/net9.0/Arrays Practice.runtimeconfig.json
+/home/levyz/VS_Projects/Arrays Practice/bin/Debug/net9.0/Arrays Practice.dll
+/home/levyz/VS_Projects/Arrays Practice/bin/Debug/net9.0/Arrays Practice.pdb
+/home/levyz/VS_Projects/Arrays Practice/obj/Debug/net9.0/Arrays Practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/levyz/VS_Projects/Arrays Practice/obj/Debug/net9.0/Arrays Practice.AssemblyInfoInputs.cache
+/home/levyz/VS_Projects/Arrays Practice/obj/Debug/net9.0/Arrays Practice.AssemblyInfo.cs
+/home/levyz/VS_Projects/Arrays Practice/obj/Debug/net9.0/Arrays Practice.csproj.CoreCompileInputs.cache
+/home/levyz/VS_Projects/Arrays Practice/obj/Debug/net9.0/Arrays Practice.sourcelink.json
+/home/levyz/VS_Projects/Arrays Practice/obj/Debug/net9.0/Arrays Practice.dll
+/home/levyz/VS_Projects/Arrays Practice/obj/Debug/net9.0/refint/Arrays Practice.dll
+/home/levyz/VS_Projects/Arrays Practice/obj/Debug/net9.0/Arrays Practice.pdb
+/home/levyz/VS_Projects/Arrays Practice/obj/Debug/net9.0/Arrays Practice.genruntimeconfig.cache
+/home/levyz/VS_Projects/Arrays Practice/obj/Debug/net9.0/ref/Arrays Practice.dll
