@@ -1,0 +1,1 @@
+// Console.WriteLine($"{Console.ReadLine().Insert(int.Parse(Console.ReadLine()),Console.ReadLine())}");

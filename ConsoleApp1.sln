@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two_Dimentional_Arrays", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "char", "char\char.csproj", "{A8824B99-45AE-4121-BB38-CF6F2BC772B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Practice", "String_Practice\String_Practice.csproj", "{BA9F218E-2E61-46C4-A8E7-81C876A9EEFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{A8824B99-45AE-4121-BB38-CF6F2BC772B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8824B99-45AE-4121-BB38-CF6F2BC772B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8824B99-45AE-4121-BB38-CF6F2BC772B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA9F218E-2E61-46C4-A8E7-81C876A9EEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9F218E-2E61-46C4-A8E7-81C876A9EEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9F218E-2E61-46C4-A8E7-81C876A9EEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9F218E-2E61-46C4-A8E7-81C876A9EEFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

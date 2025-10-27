@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "J6cqcSfDgSU=",
+  "dgSpecHash": "OZUI934B9rI=",
   "success": true,
   "projectFilePath": "/home/levyz/VS_Projects/Console_Input_and_Output/Console_Input_and_Output.csproj",
   "expectedPackageFiles": [
-    "/home/levyz/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.18/microsoft.netcore.app.host.linux-x64.8.0.18.nupkg.sha512"
+    "/home/levyz/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.21/microsoft.netcore.app.host.linux-x64.8.0.21.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xR+3QpmFuOY=",
+  "dgSpecHash": "RWtqRFf99XQ=",
   "success": true,
   "projectFilePath": "/home/levyz/VS_Projects/BlazorApp1/BlazorApp1.csproj",
   "expectedPackageFiles": [
@@ -28,8 +28,8 @@
     "/home/levyz/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/home/levyz/.nuget/packages/microsoft.jsinterop/8.0.12/microsoft.jsinterop.8.0.12.nupkg.sha512",
     "/home/levyz/.nuget/packages/microsoft.jsinterop.webassembly/8.0.12/microsoft.jsinterop.webassembly.8.0.12.nupkg.sha512",
-    "/home/levyz/.nuget/packages/microsoft.net.illink.tasks/8.0.18/microsoft.net.illink.tasks.8.0.18.nupkg.sha512",
-    "/home/levyz/.nuget/packages/microsoft.net.sdk.webassembly.pack/9.0.7/microsoft.net.sdk.webassembly.pack.9.0.7.nupkg.sha512",
+    "/home/levyz/.nuget/packages/microsoft.net.illink.tasks/8.0.21/microsoft.net.illink.tasks.8.0.21.nupkg.sha512",
+    "/home/levyz/.nuget/packages/microsoft.net.sdk.webassembly.pack/9.0.10/microsoft.net.sdk.webassembly.pack.9.0.10.nupkg.sha512",
     "/home/levyz/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512"
   ],
   "logs": []

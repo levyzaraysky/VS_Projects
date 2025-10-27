@@ -1,0 +1,15 @@
+/home/levyz/VS_Projects/String_Practice/bin/Debug/net9.0/String_Practice
+/home/levyz/VS_Projects/String_Practice/bin/Debug/net9.0/String_Practice.deps.json
+/home/levyz/VS_Projects/String_Practice/bin/Debug/net9.0/String_Practice.runtimeconfig.json
+/home/levyz/VS_Projects/String_Practice/bin/Debug/net9.0/String_Practice.dll
+/home/levyz/VS_Projects/String_Practice/bin/Debug/net9.0/String_Practice.pdb
+/home/levyz/VS_Projects/String_Practice/obj/Debug/net9.0/String_Practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/levyz/VS_Projects/String_Practice/obj/Debug/net9.0/String_Practice.AssemblyInfoInputs.cache
+/home/levyz/VS_Projects/String_Practice/obj/Debug/net9.0/String_Practice.AssemblyInfo.cs
+/home/levyz/VS_Projects/String_Practice/obj/Debug/net9.0/String_Practice.csproj.CoreCompileInputs.cache
+/home/levyz/VS_Projects/String_Practice/obj/Debug/net9.0/String_Practice.sourcelink.json
+/home/levyz/VS_Projects/String_Practice/obj/Debug/net9.0/String_Practice.dll
+/home/levyz/VS_Projects/String_Practice/obj/Debug/net9.0/refint/String_Practice.dll
+/home/levyz/VS_Projects/String_Practice/obj/Debug/net9.0/String_Practice.pdb
+/home/levyz/VS_Projects/String_Practice/obj/Debug/net9.0/String_Practice.genruntimeconfig.cache
+/home/levyz/VS_Projects/String_Practice/obj/Debug/net9.0/ref/String_Practice.dll
